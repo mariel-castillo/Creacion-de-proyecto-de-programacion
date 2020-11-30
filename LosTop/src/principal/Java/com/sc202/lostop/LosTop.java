@@ -4,7 +4,7 @@ import ComidaPorDia.ComidaPorDia;
 import javax.swing.JOptionPane;
 import Ingredientes.Ingredientes;
 
-public class LosTop {
+public class Pac_Man{
 
     
     public static void main(String[] args) {
