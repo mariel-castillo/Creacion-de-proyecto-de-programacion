@@ -1,3 +1,4 @@
+package restaurante_pac.man;
 import javax.swing.JOptionPane;
 
 public class ComidaPorDia {
